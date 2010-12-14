@@ -6,7 +6,7 @@ import paypal
 
 setup(
     name='django-paypal',
-    version=".".join(map(str, paypal.__version__)),
+    version="0.1.2.",
     author='John Boxall',
     maintainer="Matt Warren",
     url='http://github.com/johnboxall/django-paypal',
